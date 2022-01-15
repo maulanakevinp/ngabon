@@ -8,7 +8,11 @@
 </p>
 
 ## Cara Install
-
+- Unduh project
+```terminal
+git clone https://github.com/maulanakevinp/ngabon.test
+```
+- masuk ke directory project menggunakan terminal
 - Lakukan composer install ketik
 ```terminal
 composer install
