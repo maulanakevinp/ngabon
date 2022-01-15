@@ -10,7 +10,7 @@
 ## Cara Install
 - Unduh project
 ```terminal
-git clone https://github.com/maulanakevinp/ngabon.test
+git clone https://github.com/maulanakevinp/ngabon.git
 ```
 - masuk ke directory project menggunakan terminal
 - Lakukan composer install ketik
