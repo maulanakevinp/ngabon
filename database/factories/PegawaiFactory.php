@@ -16,7 +16,7 @@ class PegawaiFactory extends Factory
         return [
             'nama'          => substr($this->faker->name(),0,10),
             'tanggal_masuk' => $this->faker->dateTimeBetween('-10 years'),
-            'total_gaji'    => round(rand(2000000, 5000000), -3)
+            'total_gaji'    => round(rand(4000000, 10000000), -3)
         ];
     }
 }
